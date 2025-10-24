@@ -11,6 +11,8 @@ Exploring secure systems, intuitive interfaces, and real-world practicality thro
 ☕ Barista by day, code wrangler by night  
 🎶 Technologist with a musical edge
 
+---
+
 ## 🛠️ Tech Stack
 ### 🖥️ Programming Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=orange)
@@ -64,6 +66,8 @@ Exploring secure systems, intuitive interfaces, and real-world practicality thro
 - `Book_Records`: C++ data management system
 - `website-sample`: Responsive front-end design demo
 
+---
+
 ## ✨ Personal Traits
 🏆 **Leadership** — I guide teams with vision, accountability, and empathy
 💬 **Communicator** — I value clarity, active listening, and inclusive language
@@ -74,9 +78,13 @@ Exploring secure systems, intuitive interfaces, and real-world practicality thro
 🧑‍🏫 **Instructor** — I love sharing knowledge and empowering others
 🔍 **Detail-Oriented** — I test, validate, and iterate until it’s right
 
+---
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-andersen-)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://bryanandersen.great-site.net)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan.andersen5@gmail.com)
+
+---
 
 👏Thank you for stopping by my page! Hope to get connected with you!
