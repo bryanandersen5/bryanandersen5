@@ -69,14 +69,14 @@ Exploring secure systems, intuitive interfaces, and real-world practicality thro
 ---
 
 ## ✨ Personal Traits
-🏆 **Leadership** — I guide teams with vision, accountability, and empathy
-💬 **Communicator** — I value clarity, active listening, and inclusive language
-🤝 **Collaborator** — I thrive in cross-functional teams and shared goals
-✅ **Problem Solver** — I break down complexity into actionable steps
-🌐 **Connector** — I build bridges across cultures, disciplines, and ideas
-📚 **Learner** — I’m energized by growth, feedback, and continuous improvement
-🧑‍🏫 **Instructor** — I love sharing knowledge and empowering others
-🔍 **Detail-Oriented** — I test, validate, and iterate until it’s right
+🏆 **Leadership** — I guide teams with vision, accountability, and empathy  
+💬 **Communicator** — I value clarity, active listening, and inclusive language  
+🤝 **Collaborator** — I thrive in cross-functional teams and shared goals  
+✅ **Problem Solver** — I break down complexity into actionable steps  
+🌐 **Connector** — I build bridges across cultures, disciplines, and ideas  
+📚 **Learner** — I’m energized by growth, feedback, and continuous improvement  
+🧑‍🏫 **Instructor** — I love sharing knowledge and empowering others  
+🔍 **Detail-Oriented** — I test, validate, and iterate until it’s right  
 
 ---
 
