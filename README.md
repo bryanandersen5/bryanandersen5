@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bryan Andersen
+# 👋 Hi! I'm Bryan Andersen and welcome to my GitHub page!
 
 **A sandbox for safe innovation, where full-stack development meets thoughtful design.**  
 Exploring secure systems, intuitive interfaces, and real-world practicality through code.
@@ -62,7 +62,19 @@ Exploring secure systems, intuitive interfaces, and real-world practicality thro
 - `Book_Records`: C++ data management system
 - `website-sample`: Responsive front-end design demo
 
+## ✨ Personal Traits
+🏆 **Leadership** — I guide teams with vision, accountability, and empathy
+💬 **Communicator** — I value clarity, active listening, and inclusive language
+🤝 **Collaborator** — I thrive in cross-functional teams and shared goals
+✅ **Problem Solver** — I break down complexity into actionable steps
+🌐 **Connector** — I build bridges across cultures, disciplines, and ideas
+📚 **Learner** — I’m energized by growth, feedback, and continuous improvement
+🧑‍🏫 **Instructor** — I love sharing knowledge and empowering others
+🔍 **Detail-Oriented** — I test, validate, and iterate until it’s right
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-andersen-)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://bryanandersen.great-site.net)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan.andersen5@gmail.com)
+
+👏Thank you for stopping by my page! Hope to get connected with you!
