@@ -3,6 +3,8 @@
 **A sandbox for safe innovation, where full-stack development meets thoughtful design.**  
 Exploring secure systems, intuitive interfaces, and real-world practicality through code.
 
+---
+
 ## 💡 About Me
 🎓 Senior IT student at Kwantlen Polytechnic University  
 🧠 Passionate about full-stack development, UX design, and enterprise workflows  
