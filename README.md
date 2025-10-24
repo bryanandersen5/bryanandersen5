@@ -21,4 +21,4 @@ Exploring secure systems, intuitive interfaces, and real-world practicality thro
 - `website-sample`: Responsive front-end design demo
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/bryan-andersen-) • [Portfolio](https://bryanandersen5.github.io) • [Email](mailto:bryan.andersen5@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bryan-andersen-) • [Portfolio](https://bryanandersen.great-site.net/) • [Email](mailto:bryan.andersen5@gmail.com)
