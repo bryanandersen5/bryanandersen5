@@ -51,11 +51,11 @@ Exploring secure systems, intuitive interfaces, and real-world practicality thro
 ![Windows Servers](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🌍 Spoken Languages
-![English](https://img.shields.io/badge/English-native-blue?style=for-the-badge)
-![Indonesian](https://img.shields.io/badge/Indonesian-fluent-red?style=for-the-badge)
-![Mandarin](https://img.shields.io/badge/Mandarin-conversational-orange?style=for-the-badge)
-![Korean](https://img.shields.io/badge/Korean-conversational-green?style=for-the-badge)
-![Malay](https://img.shields.io/badge/Malay-fluent-purple?style=for-the-badge)
+![Indonesian](https://img.shields.io/badge/Indonesian-native-red?style=for-the-badge)
+![English](https://img.shields.io/badge/English-fluent-blue?style=for-the-badge)
+![Mandarin](https://img.shields.io/badge/Mandarin-conversational-red?style=for-the-badge)
+![Korean](https://img.shields.io/badge/Korean-conversational-orange?style=for-the-badge)
+![Malay](https://img.shields.io/badge/Malay-fluent-yellow?style=for-the-badge)
 
 ## 📌 Featured Projects
 - `SecureCateringSystem`: Full-stack event management system with secure backend
