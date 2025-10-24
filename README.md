@@ -95,4 +95,4 @@ Beyond programming languages, I have also mastered networking technologies with 
 
 ---
 
-👏Thank you for stopping by my page! Hope to get connected with you!
+👏 Thank you for stopping by my page! Hope to get connected with you! 🫶
