@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Bryan Andersen
 
-<!--
-**bryanandersen5/bryanandersen5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A sandbox for safe innovation, where full-stack development meets thoughtful design.**  
+Exploring secure systems, intuitive interfaces, and real-world practicality through code.
 
-Here are some ideas to get you started:
+## 💡 About Me
+🎓 Senior IT student at Kwantlen Polytechnic University  
+🧠 Passionate about full-stack development, UX design, and enterprise workflows  
+☕ Barista by day, code wrangler by night  
+🎶 Technologist with a musical edge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: HTML5, CSS3, JavaScript, Java, XML, PHP, MySQL, Python, C++, Linux Bash Shell
+- **Frameworks**: React.JS, Node.JS, JavaFX, H5P
+- **Developer Tools**: Visual Studio Code, Visual Studio 2019, IntelliJ, Figma, XAMPP, RESTful APIs
+- **Operating Systems**: Linux, Windows (Server 2012, Server 2010, 11, 10)
+
+## 📌 Featured Projects
+- `SecureCateringSystem`: Full-stack event management system with secure backend
+- `Book_Records`: C++ data management system
+- `website-sample`: Responsive front-end design demo
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/bryan-andersen-) • [Portfolio](https://bryanandersen5.github.io) • [Email](mailto:bryan.andersen5@gmail.com)
