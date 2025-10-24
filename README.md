@@ -1,7 +1,7 @@
-# 👋 Hi! I'm Bryan Andersen and welcome to my GitHub page!
+# 👋 Hi! I'm Bryan Andersen and welcome to my GitHub page!  
 
 **A sandbox for safe innovation, where full-stack development meets thoughtful design.**  
-Exploring secure systems, intuitive interfaces, and real-world practicality through code.
+🚀 Exploring secure systems, intuitive interfaces, and real-world practicality through code.
 
 ---
 
@@ -9,7 +9,15 @@ Exploring secure systems, intuitive interfaces, and real-world practicality thro
 🎓 Senior IT student at Kwantlen Polytechnic University  
 🧠 Passionate about full-stack development, UX design, and enterprise workflows  
 ☕ Barista by day, code wrangler by night  
-🎶 Technologist with a musical edge
+🎶 Technologist with a musical edge  
+
+---
+
+## 🧑‍💻 Full-Stack Developer & Tech Explorer
+I am a full-stack developer passionate about learning and developing safe technology. Through my education journey, I have mastered HTML5, CSS3, and JavaScript for front-end web development, PHP and MySQL for back-end web development, as well as Python, C++, and Java for object-oriented programming languages with a variety of frameworks knowledge, such as React.JS, Node.JS, JavaFX, and H5P.
+
+## 🌐 Systems & Infrastructure
+Beyond programming languages, I have also mastered networking technologies with Cisco, and server Operating Systems (OS) with Linux, Windows Server 2012, Windows Server 2010, Windows 11, and Windows 10 — including skills in Linux Bash Shell scripting, Terminal, and Command Prompt.
 
 ---
 
