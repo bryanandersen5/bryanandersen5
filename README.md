@@ -1,7 +1,5 @@
 # 👋 Hi! I'm Bryan Andersen and welcome to my GitHub page!  
 
----
-
 **A sandbox for safe innovation, where full-stack development meets thoughtful design.**  
 🚀 Exploring secure systems, intuitive interfaces, and real-world practicality through code.
 
