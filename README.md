@@ -3,7 +3,6 @@
 **A sandbox for safe innovation, where full-stack development meets thoughtful design.**  
 🚀 Exploring secure systems, intuitive interfaces, and real-world practicality through code.
 
-![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryanandersen5&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanandersen5&layout=compact&theme=radical)
 
 ---
