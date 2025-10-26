@@ -3,8 +3,6 @@
 **A sandbox for safe innovation, where full-stack development meets thoughtful design.**  
 🚀 Exploring secure systems, intuitive interfaces, and real-world practicality through code.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanandersen5&layout=compact&theme=radical)
-
 ---
 
 ## 💡 About Me
@@ -12,6 +10,8 @@
 🧠 Passionate about full-stack development, UX design, and enterprise workflows  
 ☕ Barista by day, code wrangler by night  
 🎶 Technologist with a musical edge  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanandersen5&layout=compact&theme=radical)
 
 ---
 
