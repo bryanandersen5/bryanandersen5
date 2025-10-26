@@ -95,7 +95,7 @@ Beyond programming languages, I have also mastered networking technologies with 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://bryanandersen.great-site.net)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan.andersen5@gmail.com)
 
-![Demo](https://user-images.githubusercontent.com/yourusername/demo.gif)
+![Demo](https://user-images.githubusercontent.com/bryanandersen5/demo.gif)
 
 ---
 
