@@ -3,6 +3,9 @@
 **A sandbox for safe innovation, where full-stack development meets thoughtful design.**  
 🚀 Exploring secure systems, intuitive interfaces, and real-world practicality through code.
 
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-React-blue?style=for-the-badge&logo=react)
+
 ---
 
 ## 💡 About Me
