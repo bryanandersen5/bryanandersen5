@@ -11,7 +11,7 @@
 ☕ Barista by day, code wrangler by night  
 🎶 Technologist with a musical edge  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanandersen5&layout=compact&theme=radical&hide=scss,less)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanandersen5&layout=compact&theme=radical)
 
 ---
 
