@@ -29,6 +29,7 @@ Beyond programming languages, I have also mastered networking technologies with 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processing&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -67,8 +68,8 @@ Beyond programming languages, I have also mastered networking technologies with 
 ### 🌍 Spoken Languages
 ![Indonesian](https://img.shields.io/badge/Indonesian-native-red?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-fluent-blue?style=for-the-badge)
-![Mandarin](https://img.shields.io/badge/Mandarin-conversational-red?style=for-the-badge)
-![Korean](https://img.shields.io/badge/Korean-conversational-orange?style=for-the-badge)
+![Mandarin](https://img.shields.io/badge/Mandarin-conversational-orange?style=for-the-badge)
+![Korean](https://img.shields.io/badge/Korean-conversational-pink?style=for-the-badge)
 ![Malay](https://img.shields.io/badge/Malay-fluent-yellow?style=for-the-badge)
 
 ## 📌 Featured Projects
