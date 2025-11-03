@@ -69,7 +69,7 @@ Beyond programming languages, I have also mastered networking technologies with 
 ![Indonesian](https://img.shields.io/badge/Indonesian-native-red?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-fluent-blue?style=for-the-badge)
 ![Mandarin](https://img.shields.io/badge/Mandarin-conversational-orange?style=for-the-badge)
-![Korean](https://img.shields.io/badge/Korean-conversational-pink?style=for-the-badge)
+![Korean](https://img.shields.io/badge/Korean-conversational-white?style=for-the-badge)
 ![Malay](https://img.shields.io/badge/Malay-fluent-yellow?style=for-the-badge)
 
 ## 📌 Featured Projects
